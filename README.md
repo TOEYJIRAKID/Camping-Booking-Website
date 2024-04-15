@@ -1,7 +1,7 @@
 # ระบบจองลานกางเต็นท์ผ่าน Web Application
 
 ## Link  to youtube
-[JUSTCAMP ระบบจองลานกางเต็นท์ผ่าน Web Application](https://www.youtube.com/watch?v=C2795INq4B8)
+[JUSTCAMP ระบบจองลานกางเต็นท์ผ่าน Web Application](https://youtu.be/L5qTWvzyUTU?si=MZIqIWm_bk5SuWDu)
 
 ## สมาชิก
 
