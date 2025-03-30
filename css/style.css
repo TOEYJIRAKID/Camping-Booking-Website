@@ -8990,7 +8990,7 @@ figure {
 
 #fh5co-hero {
   margin-bottom: 0;
-  background: #fff url(../images/loader.gif) no-repeat center center;
+  /* background: #fff url(../images/loader.gif) no-repeat center center; */
   margin-bottom: 0 !important;
   position: relative;
   display: -webkit-box;

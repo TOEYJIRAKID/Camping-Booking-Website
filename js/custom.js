@@ -102,7 +102,6 @@ $(function () {
       function (direction) {
         if (direction === "down" && !$(this.element).hasClass("animated")) {
           i++;
-
           $(this.element).addClass("item-animate");
           setTimeout(function () {
             $("body .animate-box.item-animate").each(function (k) {
