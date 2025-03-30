@@ -116,6 +116,12 @@ sub {
   bottom: -0.25em;
 }
 
+.svg-img {
+  width: 2rem;
+  height: 2rem;
+  margin-right: 10px;
+}
+
 img {
   border: 0;
 }
