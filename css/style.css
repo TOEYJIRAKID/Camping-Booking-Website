@@ -8818,7 +8818,7 @@ figure {
   box-shadow: none;
   border: transparent;
   min-width: 12em;
-  *width: 12em;
+  /* *width: 12em; */
 }
 
 .sf-menu a {
@@ -8875,7 +8875,7 @@ figure {
 
 .sf-arrows .sf-with-ul {
   padding-right: 2.5em;
-  *padding-right: 1em;
+  /* *padding-right: 1em; */
 }
 
 .sf-arrows .sf-with-ul:after {
@@ -10056,7 +10056,7 @@ input[type="text"] {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  /* *display: inline; */
   width: 30px;
   height: 2px;
   color: #000;
