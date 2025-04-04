@@ -112,4 +112,4 @@ Here’s a sample of how booking data is structured in JSON format:
 
 ## 📽️ **Project Preview** :
 
-![JUSTCAMP](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTh2OWZiMHBlcWM1cGxoYTV6ODdpaW02N216cGg2eHc1YnN0NXlqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dgvEeUtdx02R7Owt0w/giphy.gif)
+![JUSTCAMP](https://github.com/TOEYJIRAKID/personal_gif_public/blob/main/Just-Camp-Preview.gif)
